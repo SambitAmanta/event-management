@@ -3,25 +3,34 @@
 This project is a social media application focused on user experience and content discovery.
 
 # Features
-User Authentication: Secure user login and registration with Clerk.
+User Authentication: 
+Secure user login and registration with Clerk.
+
 Content Management:
 Create and edit posts with text, images, and videos.
 Like and save posts for easy access.
 Explore a personalized feed of content from followed users and trending topics.
+
 User Profiles:
 View and edit profile information.
 See a list of created, liked, and saved content.
+
 Community Building:
 Follow other users to see their posts.
 Search for users and content.
+
 Intuitive Interface:
 Responsive design for seamless mobile experience.
 User-friendly interface for creating and interacting with content.
-Notifications: Send notifications about likes, comments, and other activities.
-Chat Functionality: Implement a real-time chat feature for direct messaging.
-Content Moderation System: Tools to report and manage inappropriate content.
-Story Feature: Allow users to share temporary photo and video stories.
-Group Functionality: Create and manage private or public groups for discussions and sharing.
+
+Notifications: 
+Send notifications about likes, comments, and other activities.
+
+Content Moderation System: 
+Tools to report and manage inappropriate content.
+
+Story Feature: 
+Allow users to share temporary photo and video stories.
 
 # Technologies Used
 Node.js

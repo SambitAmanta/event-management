@@ -34,17 +34,28 @@ Allow users to share temporary photo and video stories.
 
 # Technologies Used
 Node.js
+
 Next.js
+
 TypeScript
+
 TailwindCSS
+
 Stripe
+
 Zod
+
 React Hook Form
+
 Shadcn
+
 uploadthing
 
-Setup Instructions
+# Setup Instructions
 Clone this repository: git clone https://github.com/SambitAmanta/social-media-app.git
+
 Install dependencies: npm install 
+
 Configure the database connection in your environment variables.
+
 Run the development server: npm start 

@@ -1,38 +1,35 @@
-# event-management
-# Social Media Application
-This project is a social media application focused on user experience and content discovery.
+# Event Management System
+This project is an event management system that allows users to create, manage, and discover events.
 
 # Features
-User Authentication: 
-Secure user login and registration with Clerk.
+User Authentication: Secure user login and registration with Clerk
 
-Content Management:
-Create and edit posts with text, images, and videos.
-Like and save posts for easy access.
-Explore a personalized feed of content from followed users and trending topics.
+Event Management (CRUD):
+Create events with essential details like title, date, location, and description.
+View a detailed list of all events.
+Update event details.
+Delete events (for administrators or authorized users).
+
+Event Discovery:
+Search for events based on keywords, categories, or dates.
+Browse a curated list of featured events.
+See related events on event detail pages.
 
 User Profiles:
-View and edit profile information.
-See a list of created, liked, and saved content.
+View and manage personal information.
 
-Community Building:
-Follow other users to see their posts.
-Search for users and content.
+Event Registration: Allow users to register for events.
 
-Intuitive Interface:
-Responsive design for seamless mobile experience.
-User-friendly interface for creating and interacting with content.
+Ticketing System: Integrate a ticketing system for paid events.
 
-Notifications: 
-Send notifications about likes, comments, and other activities.
+Payment Processing: Integrate a payment gateway Stripe for ticket purchases.
 
-Content Moderation System: 
-Tools to report and manage inappropriate content.
+Event Reviews and Ratings: Enable users to leave reviews and ratings for events.
 
-Story Feature: 
-Allow users to share temporary photo and video stories.
+Notifications: Send notifications to users about upcoming events or updates.
 
 # Technologies Used
+
 Node.js
 
 Next.js
@@ -52,10 +49,10 @@ Shadcn
 uploadthing
 
 # Setup Instructions
-Clone this repository: git clone https://github.com/SambitAmanta/social-media-app.git
+Clone this repository: git clone https://github.com/SambitAmanta/event-management-system.git
 
-Install dependencies: npm install 
+Install dependencies: npm install (or equivalent command for your package manager)
 
 Configure the database connection in your environment variables.
 
-Run the development server: npm start 
+Run the development server: npm start (or equivalent command)
